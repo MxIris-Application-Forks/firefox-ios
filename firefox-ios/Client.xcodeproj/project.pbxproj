@@ -6616,6 +6616,7 @@
 		43DACCAA2C85D42700CA4B33 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SuggestedSites.strings; sourceTree = "<group>"; };
 		43DAD7C72B0B76D500DEBDCC /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/FirefoxHomepage.strings; sourceTree = "<group>"; };
 		43DB4DB82BE8F55700EBCB3A /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Microsurvey.strings; sourceTree = "<group>"; };
+		43DB6B3D2DE484FF00818253 /* ny */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ny; path = ny.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		43DB908F29225AAE009A3CDF /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/SearchHeaderTitle.strings; sourceTree = "<group>"; };
 		43DB95952A6E948200B75724 /* kab */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kab; path = kab.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
 		43DB95962A6E948200B75724 /* kab */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kab; path = kab.lproj/SelectCreditCard.strings; sourceTree = "<group>"; };
@@ -16102,6 +16103,7 @@
 				tg,
 				"es-ES",
 				tzm,
+				ny,
 			);
 			mainGroup = F84B21B51A090F8100AAB793;
 			packageReferences = (
@@ -25284,6 +25286,7 @@
 				43E58E852D6C8B9300B07153 /* tg */,
 				435B20F02D75C47A00D1CC3A /* es-ES */,
 				433D74F72D75C5FE003D5A32 /* tzm */,
+				43DB6B3D2DE484FF00818253 /* ny */,
 			);
 			name = WidgetIntents.intentdefinition;
 			sourceTree = "<group>";
